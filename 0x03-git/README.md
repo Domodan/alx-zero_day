@@ -1,1 +1,1 @@
-New git directory
+New git directory, new update
